@@ -19,7 +19,7 @@ S.No		Test Time/ Date			page url				status		Description
 
 
 
-6		06-12-2024 01:25:37 pm		https://mkuniversity.ac.in/new/		pass
+6		06-12-2024 01:25:37 pm		https://mkuniversity.ac.in/new/		passed
 
 
 
@@ -29,7 +29,7 @@ S.No		Test Time/ Date			page url				status		Description
 
 
 
-8		06-12-2024 02:12:47 pm		https://www.motherteresawomenuniv.ac.in/mwu/admission_2024					pass	
+8		06-12-2024 02:12:47 pm		https://www.motherteresawomenuniv.ac.in/mwu/admission_2024					passed	
 
 
 
