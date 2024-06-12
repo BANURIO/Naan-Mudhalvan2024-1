@@ -10,7 +10,7 @@ S.No		Test Time/ Date			page url				status		Description
 
 
 
-4		06-12-2024 01:01:42 pm		https://mkuniversity.ac.in/new/		Fail		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)		
+4		06-12-2024 01:01:42 pm		https://mkuniversity.ac./		Fail		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)		
 
 
 
